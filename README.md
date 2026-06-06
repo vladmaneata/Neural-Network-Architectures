@@ -39,8 +39,4 @@ This project is part of my machine learning learning path and helps me build int
 - (future: TensorFlow / PyTorch)
 - Mathematical modeling
 
----
 
-## 🚀 Status
-
-Work in progress — new architectures and experiments will be added over time.
